@@ -1,0 +1,12 @@
+03-01-2026, 17:31:51 Client-Win64-Shipping.exe benchmark completed, 585 frames rendered in 11.907 s
+                     Average framerate  :   49.1 FPS
+                     Minimum framerate  :   35.6 FPS
+                     Maximum framerate  :   55.8 FPS
+                     1% low framerate   :   25.2 FPS
+                     0.1% low framerate :   13.8 FPS
+03-01-2026, 17:49:14 Client-Win64-Shipping.exe benchmark completed, 5476 frames rendered in 119.422 s
+                     Average framerate  :   45.8 FPS
+                     Minimum framerate  :    2.8 FPS
+                     Maximum framerate  :   61.6 FPS
+                     1% low framerate   :    6.1 FPS
+                     0.1% low framerate :    2.1 FPS
